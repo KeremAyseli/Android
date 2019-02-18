@@ -1,0 +1,23 @@
+glide kütüphanesi resim cache kütüphanesi 
+bir resmi internet adresinden üzerinden açabilir ,file sınıfından açabilir
+picasso kütüphanesi resim cache kütüphanesi
+bir resmi internet adresinden üzerinden açabilir ,file sınıfından açabilir
+
+okhtpp 
+webservis network kütüphanesi bir web sayfasının kaynağını okumak ve kopyalamak .
+bir web sayfasını post ger tipinde isteklerde bulunup response(yanıt) almak yakalamak.
+retrofit
+wbservis kütüphanesidir
+hızlıdır.
+güvenlidir.
+mimariye en uygun şekilde inşa edilmiştir.
+okhttp altyapısı ile inşa edilmiştir.
+bir web sayfasını post ger tipinde isteklerde bulunup response(yanıt) almak yakalamak.
+volley
+webservis kütüphanesidir.
+HTTPUrlConnection java sınıfı üzerine inşa edilmiştir.
+retrofite göre daha basittir.Bir metot yazıp,örn:web sayfasına kayıt olunabilir.
+
+gson
+json verileri serialize/deserialize işlemini gerçekleştiren bir kütühanedir.
+retrofit kütüphanesinde kütüphanesinde sıklıkla kullanılır.
